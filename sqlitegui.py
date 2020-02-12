@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[243]:
-
-
 from tkinter import *
 import sqlite3 as lite
 import os
@@ -240,22 +237,4 @@ loadcsvbt.grid(row=16,column=5)
 exportcsvbt.grid(row=16,column=7)
 
 mw.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
